@@ -1,7 +1,6 @@
 # List of Compression Algorithms
 
 ## SMAZ
-___
    The Smaz short string compression algorithm by Salvatore Sanfilippo.  
 
   __Use Case__
@@ -49,4 +48,5 @@ __Library__
 __Library__
 - [C](https://www.lzop.org/)
 
+___
 # Bemchmarking 
