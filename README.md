@@ -1,6 +1,7 @@
 ## List of Compression Algorithms and its use case
 
 ### SMAZ
+___
    The Smaz short string compression algorithm by Salvatore Sanfilippo.  
 
   __Use Case__
