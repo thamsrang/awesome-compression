@@ -17,6 +17,20 @@ __Library__
 __Library__
 - [C](https://github.com/madler/zlib)
 
-
+### gzip
+   gzip is a file format and a software application used for file compression and decompression. 
+ __Library__
+ 
+### brotli
+   Brotli is a data format specification for data streams compressed with a specific combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding and 2nd order context modelling.  
+   Best for js and css files.
+   
+### xz
+   xz is a lossless compression program and file format which incorporates the LZMA/LZMA2 compression algorithms.These are the same compression formats used by the 7-Zip program and its command-line version p7zip. 
+   
+### lzop
+   lzop is a free software file compression tool which implements the LZO algorithm and is licensed under the GPL.
+__Library__
+- [C](https://www.lzop.org/)
 
 ## Bemchmarking 
