@@ -2,9 +2,11 @@
 
 ### SMAZ
    The Smaz short string compression algorithm by Salvatore Sanfilippo.  
+
   __Use Case__
    - Smaz is a simple compression library suitable for compressing very short strings with 4 to 100 characters.  
    - This port currently only supports ASCII characters and will throw an exception when trying to compress non-ascii characters.  
+ 
   __Library__
    - [C](https://github.com/antirez/smaz)
    - [Java](https://github.com/RyanAD/jsmaz)
